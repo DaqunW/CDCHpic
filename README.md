@@ -1,0 +1,2 @@
+# CDCHpic
+save pics
